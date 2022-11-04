@@ -50,7 +50,7 @@
         }
       }],
       "env": [{
-        "name": "Humanoid-v0",
+        "name": "Humanoid-v2",
         "max_t": null,
         "max_frame": 50000,
       }],
