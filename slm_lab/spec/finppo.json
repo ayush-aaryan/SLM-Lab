@@ -1,5 +1,5 @@
 {
-    "ppo_shared_cartpole": {
+    "ppo_fin": {
       "agent": [{
         "name": "PPO",
         "algorithm": {
@@ -50,7 +50,7 @@
         }
       }],
       "env": [{
-        "name": "aapl_env-v0",
+        "name": "Humanoid-v0",
         "max_t": null,
         "max_frame": 50000,
       }],
