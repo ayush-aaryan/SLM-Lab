@@ -1,4 +1,4 @@
- ppo_fin: {
+{ "ppo_fin": {
   "agent": [
     {
       "name": "PPO",
@@ -88,5 +88,6 @@
     "prepath": null,
     "git_sha": "30d4f3d966ea3f680274095ee368d87e5a0dbaf0",
     "random_seed": null
-  } ]
-}
+  } ],
+  "name": "ppo_fin"
+}}
