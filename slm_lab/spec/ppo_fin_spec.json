@@ -72,7 +72,7 @@
       "max_frame": 10000000.0
     }
   ],
-  "meta": {
+  "meta":[ {
     "distributed": false,
     "eval_frequency": 1000,
     "max_session": 1,
@@ -88,6 +88,6 @@
     "prepath": null,
     "git_sha": "30d4f3d966ea3f680274095ee368d87e5a0dbaf0",
     "random_seed": null
-  },
+  } ],
   "name": "ppo_fin"
 }
